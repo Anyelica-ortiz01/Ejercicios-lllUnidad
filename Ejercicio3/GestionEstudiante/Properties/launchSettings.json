@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GestionEstudiantes": {
+      "commandName": "Project",
+      "jsWebView2Debugging": true,
+      "sqlDebugging": true
+    }
+  }
+}
